@@ -1,0 +1,2 @@
+# stokanime
+safelink
